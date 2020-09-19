@@ -1,9 +1,11 @@
-#include <stdio.h>
-#include <conio.h>
-
-main()
-{
-  //  clrscr();
-    printf("\n Praise to the Lord");
+   #include<stdio.h>
+    #include<conio.h>
+    void main()
+    {
+    int a=10, b=20;
+    int sum=0;
+    clrscr();  // use clrscr() after variable declaration
+    sum=a+b;
+    printf("Sum: %d",s);
     getch();
-}
+    }
