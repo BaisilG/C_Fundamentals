@@ -1,1 +1,2 @@
 What is pointers?
+Pointers are variables.
