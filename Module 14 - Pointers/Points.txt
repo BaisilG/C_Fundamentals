@@ -1,2 +1,3 @@
 What is pointers?
-Pointers are variables, which stores address location of another variable. 
+Pointers are variables, which stores address location of another variable.
+and hence the pointers can be derived values stored at the address location.
