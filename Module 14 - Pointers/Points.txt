@@ -1,2 +1,2 @@
 What is pointers?
-Pointers are variables.
+Pointers are variables, which stores address location of another variable. 
